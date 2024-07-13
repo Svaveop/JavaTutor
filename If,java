@@ -1,0 +1,22 @@
+public class Main {
+    public static void main(String[] args) {
+        int a = 15, b = 10;
+        if(a > b) {
+            System.out.println("Yes, true");
+        }
+        if(a != b) {
+            System.out.println("No, false");
+        }
+        char sym1 = 'A', sym2 = 'a'; //also with symbols
+        if(sym1 == sym2) {
+            System.out.println("No, false");
+        }//Java feels that A is not a
+        boolean HasCar = false;
+        if(HasCar) { // same as to write in brackets (HasCar == true)
+            System.out.println("No, false");
+        }
+        if(!HasCar) { // same as to write in brackets (HasCar == false)
+            System.out.println("Yes, true");
+        }
+    }
+}
