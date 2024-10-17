@@ -25,4 +25,4 @@ This project is for educational purposes and is maintained on a limited basis. P
 
 ## License
 
-This project includes code from **ItProger** [(Course Link)](https://itproger.com/course/react) and is licensed under the MIT License. You are free to use, copy, and modify the code, provided that you retain the copyright notice and license text. Details can be found in the LICENSE file.
+This project includes code from **ItProger** [(Link)](https://itproger.com/course/react) and is licensed under the MIT License. You are free to use, copy, and modify the code, provided that you retain the copyright notice and license text. Details can be found in the LICENSE file.
